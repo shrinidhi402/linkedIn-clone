@@ -1,4 +1,4 @@
-.headerOption{
+.headerOption {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -7,16 +7,16 @@
     cursor: pointer;
 }
 
-.headerOption__title{
-font-size: 12px;
-font-weight:400 ;
+.headerOption:hover {
+    color: black;
 }
 
-.headerOption__icon{
-    object-fit: contain;
+.headerOption__title {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.headerOption__icon {
     height: 25px !important;
     width: 25px !important;
-}
-.headerOption:hover{
-    color: black;
 }
