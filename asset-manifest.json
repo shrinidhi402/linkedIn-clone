@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/linkedIn-clone/static/css/main.9102c149.chunk.css",
+    "main.js": "/linkedIn-clone/static/js/main.eb3b6ca6.chunk.js",
+    "main.js.map": "/linkedIn-clone/static/js/main.eb3b6ca6.chunk.js.map",
+    "runtime-main.js": "/linkedIn-clone/static/js/runtime-main.74e0190e.js",
+    "runtime-main.js.map": "/linkedIn-clone/static/js/runtime-main.74e0190e.js.map",
+    "static/js/2.3f51b0f4.chunk.js": "/linkedIn-clone/static/js/2.3f51b0f4.chunk.js",
+    "static/js/2.3f51b0f4.chunk.js.map": "/linkedIn-clone/static/js/2.3f51b0f4.chunk.js.map",
+    "index.html": "/linkedIn-clone/index.html",
+    "static/css/main.9102c149.chunk.css.map": "/linkedIn-clone/static/css/main.9102c149.chunk.css.map",
+    "static/js/2.3f51b0f4.chunk.js.LICENSE.txt": "/linkedIn-clone/static/js/2.3f51b0f4.chunk.js.LICENSE.txt",
+    "static/media/sidebar.33feeb45.jpg": "/linkedIn-clone/static/media/sidebar.33feeb45.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74e0190e.js",
+    "static/js/2.3f51b0f4.chunk.js",
+    "static/css/main.9102c149.chunk.css",
+    "static/js/main.eb3b6ca6.chunk.js"
+  ]
+}
